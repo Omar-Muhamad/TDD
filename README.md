@@ -1,11 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# project name here
+# TDD project
 
-> Project description here.
+> In this project we implement a class with some methods, but we do it by doing test-driven development (TDD)
 
 ## Built With
 
 - Ruby.
+- RSpec.
 - Linters.
 
 ## Install
@@ -20,13 +21,24 @@
 4. Type `irb`.
 5. Copy the code from files and run it.
 
-## Author
+## test 
+
+- Open terminal and type `gem install rspec`.
+- To run tests type `rspec (filename.rb)`.
+
+## Authors
 
 👨‍💻 **Omar Muhammad**
 
 - GitHub: [@Omar-Muhamad](https://github.com/Omar-Muhamad)
 - Twitter: [@Eng_OmarMuhamad](https://twitter.com/Eng_OmarMuhamad)
 - LinkedIn: [@eng-omarmuhammad](https://www.linkedin.com/in/eng-omarmuhammad/)
+
+👤 **Kerolous Samy**
+
+- GitHub: [@kerolous](https://github.com/keroloussamy)
+- Twitter: [@kerolous](https://twitter.com/SamyKerolous)
+- LinkedIn: [kerolous](https://www.linkedin.com/in/keroloussamy/)
 
 ## Show your support
 
