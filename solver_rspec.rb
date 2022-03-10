@@ -6,6 +6,10 @@ describe 'Test solver class' do
       solver = Solver.new
       expect(solver.factorial(5)).to be(120)
     end
+    it 'factorial method with zero' do
+      solver = Solver.new
+      expect(solver.factorial(0)).to be(1)
+    end
     it 'factorial method with Negative numer' do
       solver = Solver.new
       expect { solver.factorial(-5) }.to raise_error('Error: Your number should be positive.')
